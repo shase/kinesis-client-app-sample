@@ -1,0 +1,1 @@
+# kinesis-client-app-sample
